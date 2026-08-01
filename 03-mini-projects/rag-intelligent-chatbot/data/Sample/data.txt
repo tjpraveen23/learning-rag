@@ -1,0 +1,46 @@
+Frequently Asked Questions (FAQ)
+
+1. What is this product and who is it for?
+Our product is a cloud-based task management and collaboration tool designed for individuals, small businesses, and enterprise teams.
+
+2. How do I create an account?
+Simply visit our website, click Sign Up, and fill in your details. You can also sign up using Google or Microsoft accounts.
+
+3. Is there a free trial?
+Yes. We offer a 14-day free trial of our Professional plan with no credit card required.
+
+4. What platforms are supported?
+Our tool works on web browsers, Android, and iOS. A desktop app is available for Windows and macOS.
+
+5. Can I use it offline?
+Yes, the mobile and desktop apps offer offline mode. Your data will automatically sync when you reconnect to the internet.
+
+6. How secure is my information?
+We use SSL encryption, multi-factor authentication, and regular security audits to protect your data.
+
+7. How do I reset my password?
+Click Forgot Password on the login page, enter your email, and follow the link sent to you to set a new password.
+
+8. Does it support team collaboration?
+Yes. You can create teams, assign tasks, share files, and track progress in real time.
+
+9. How do I upgrade or downgrade my plan?
+Go to Account Settings → Billing, and choose your preferred plan. Changes take effect immediately.
+
+10. Can I cancel my subscription anytime?
+Yes. You can cancel anytime from your account settings, and you won’t be charged for the next billing cycle.
+
+11. Do you offer customer support?
+Yes. Our support team is available 24/7 via email, live chat, and phone for Enterprise customers.
+
+12. How do I import my data from another tool?
+We provide an Import Wizard that supports CSV, Excel, and integration with major project management tools.
+
+13. Can I integrate this with other apps?
+Yes. We integrate with Google Workspace, Microsoft Teams, Slack, Dropbox, and over 50 other services.
+
+14. What payment methods do you accept?
+We accept major credit/debit cards, PayPal, and bank transfers for annual subscriptions.
+
+15. Where can I find tutorials and guides?
+Visit our Help Center for video tutorials, step-by-step guides, and FAQs.
