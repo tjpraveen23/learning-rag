@@ -1,0 +1,9 @@
+pymupdf
+python-dotenv
+langchain-text-splitters
+chromadb 
+langchain-chroma 
+langchain-huggingface 
+sentence-transformers
+langchain-groq
+pydantic
